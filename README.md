@@ -1,9 +1,5 @@
 # DemoTestNG
-
-******************
-*** Carlos Roa ***
-*** Pyxis 2023 ***
-******************
+Carlos Roa - Pyxis 2023
 
 
 Objetivo: 
